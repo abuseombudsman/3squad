@@ -1,2 +1,2 @@
 # 3squad
-We don't fake it. We just take it!
+We don't fake. We just take it!
